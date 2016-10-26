@@ -40,4 +40,13 @@ def run_tests():
 
 # Edit this code
 def battle(name1, power1, name2, power2):
+    
+    if power1 > power2:
+        print(name1)
+        
+    elif power1 < power2:
+        print(name2)
+        
+    elif power1 == power2:
+        print("draw")
 
