@@ -44,4 +44,10 @@ def run_tests():
 
 # Edit this code
 def encode(word):
+    
+    for i in range(1, 4):
+        print(word = "a" + "b")
+        
+    for i in range(1, 10, -1):
+        print(word -1)
 
