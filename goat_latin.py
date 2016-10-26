@@ -1,3 +1,4 @@
+
 """
 Problem:
 
@@ -44,4 +45,9 @@ def run_tests():
 
 # Edit this code
 def encode(word):
+    
+    for i in range(1, 4):
+        print("a" + "b")
+        
+    for i in range(1, 10, -1)
 
