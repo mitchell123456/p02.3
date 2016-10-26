@@ -1,3 +1,4 @@
+
 """
 Problem:
 
@@ -34,4 +35,17 @@ def run_tests():
 
 # Edit this code
 def compute(num1, operator, num2):
+    
+    num1 = z
+    num2 = y
+    total = 0
+    
+    if operator == +:
+        print("total = num1 + num2")
+        
+    elif operator == -:
+        print("total = num1 - num2")
+        
+    elif operator == x:
+        print("total = num1 x num2")
 
